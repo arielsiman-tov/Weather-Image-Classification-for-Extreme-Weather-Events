@@ -1,6 +1,6 @@
 # Weather_Image_Classification_for_Extreme_Weather_Events
 
-### We encourage you to take a look at the attached presentation.
+### We encourage you to take a look also at the attached presentation for further information.
 
 ![image](https://github.com/user-attachments/assets/1c72bd82-21c8-4d93-b8e6-893a4b5a496c)
 
